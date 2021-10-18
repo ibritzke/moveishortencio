@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React from "react";
 import "./style.css";
 import {
   AiOutlineMail,
@@ -63,6 +63,7 @@ export const Contato = () => {
         </div>
         <div className="mapa">
           <iframe
+          title="Localização Móveis Hortêncio"
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3471.420189917509!2d-51.27024348430533!3d-29.533255214649596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951954089a2efad9%3A0x6f12871639176cee!2zTcOzdmVpcyBIb3J0w6puY2lv!5e0!3m2!1spt-BR!2sbr!4v1634580060384!5m2!1spt-BR!2sbr"
             width="1980"
             height="400"
