@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 //css
 import "./Footer.css";
 
@@ -17,9 +17,9 @@ export const Footer = () => {
           </li>
 
           <li className="label-link">
-            <a href="/empresa" title="Empresa">
+            <Link to="/empresa" title="Empresa">
               Empresa
-            </a>
+          </Link>
           </li>
         </ul>
         <ul className="coluna2">
@@ -28,26 +28,26 @@ export const Footer = () => {
           </li>
 
           <li className="label-link">
-            <a href="/cadeiras" title="Cadeiras">
+            <Link to="/cadeiras" title="Cadeiras">
               Cadeiras
-            </a>
+          </Link>
           </li>
 
           <li className="label-link">
-            <a href="/mesas" title="Mesas">
+            <Link to="/mesas" title="Mesas">
               Mesas
-            </a>
+          </Link>
           </li>
           <li className="label-link">
-            <a href="/poltronas" title="Poltronas">
+            <Link to="/poltronas" title="Poltronas">
               Poltronas
-            </a>
+          </Link>
           </li>
 
           <li className="label-link">
-            <a href="/banquetas" title="Banquetas">
+            <Link to="/banquetas" title="Banquetas">
               Banquetas
-            </a>
+          </Link>
           </li>
         </ul>
         <ul className="coluna3">
@@ -55,14 +55,14 @@ export const Footer = () => {
             <label>Contatos</label>
           </li>
           <li className="label-link">
-            <a href="/contato" title="Atendimento">
+            <Link to="/contato" title="Atendimento">
               Atendimento
-            </a>
+          </Link>
           </li>
           <li className="label-link">
-            <a href="/contato" title="Vendas">
+            <Link to="/contato" title="Vendas">
               Vendas
-            </a>
+          </Link>
           </li>
         </ul>
       </section>
@@ -73,12 +73,12 @@ export const Footer = () => {
         <h5>MÓVEIS NAS REDES SOCIAIS</h5>
 
         <div className="rede-social">
-          <a href="https://www.facebook.com/moveishortencio/">
+          <Link to="https://www.facebook.com/moveishortencio/">
             <FaFacebookF style={{ color: "white" }} />
-          </a>
-          <a href="https://www.instagram.com/moveishortencio">
+        </Link>
+          <Link to="https://www.instagram.com/moveishortencio">
             <FaInstagram style={{ color: "white" }} />
-          </a>
+        </Link>
         </div>
       </div>
     </div>

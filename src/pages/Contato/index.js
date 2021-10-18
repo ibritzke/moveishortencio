@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./style.css";
 import {
   AiOutlineMail,
@@ -20,18 +21,18 @@ export const Contato = () => {
 
       <div className="cardsContato">
 
-        <a href="mailto:contato@moveishortencio.com.br?Subject=Contato do site">
+        <Link to="mailto:contato@moveishortencio.com.br?Subject=Contato do site">
           <div className="card-whats">
             <AiOutlineWhatsApp className="iconeCard-whats" />
             <p>WhatsApp</p>
           </div>
-        </a>
-        <a href="mailto:contato@moveishortencio.com.br?Subject=Contato do site">
+        </Link>
+        <Link to="mailto:contato@moveishortencio.com.br?Subject=Contato do site">
           <div className="card-email">
             <AiOutlineMail className="iconeCard-email" />
             <p>E-mail</p>
           </div>
-        </a>
+        </Link>
         <div className="card-tel">
           <AiOutlinePhone className="iconeCard-tel" />
           <p>Telefone</p>
@@ -39,22 +40,21 @@ export const Contato = () => {
         </div>
      
 
-        <a href="https://www.instagram.com/moveishortencio/">
+        <Link to="https://www.instagram.com/moveishortencio/">
           <div className="card-insta">
             <AiOutlineInstagram className="iconeCard-insta" />
             <p>Instagram</p>
           </div>
-        </a>
+        </Link>
 
-        <a
+        <Link to="https://www.facebook.com/moveishortencio"
           className="a-card-face"
-          href="https://www.facebook.com/moveishortencio"
         >
           <div className="card-face">
             <AiFillFacebook className="iconeCard-face" />
             <p>Facebook</p>
           </div>
-        </a>
+        </Link>
       </div>
       <div className="endereco-contato">
         <div className="subTitleContato">
