@@ -1,0 +1,58 @@
+{
+  "banquetas": [
+    {
+      "id": 1,
+      "name": "REPLICA II",
+      "image": "https://moveishortencio.com.br/banquetas/B REPLICA II.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "VITHORIA",
+      "image": "https://moveishortencio.com.br/banquetas/B VITHORIA.jpg",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "VITHORIA",
+      "image": "https://moveishortencio.com.br/banquetas/B VITHORIA 2.jpg",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "VITHORIA BABY",
+      "image": "https://moveishortencio.com.br/banquetas/B VITHORIA BABY.jpg",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "ITALIANA",
+      "image": "https://moveishortencio.com.br/banquetas/B ITALIANA.jpg",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "INDIAN",
+      "image": "https://moveishortencio.com.br/banquetas/B INDIAN.jpg",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "INDIAN",
+      "image": "https://moveishortencio.com.br/banquetas/B INDIAN P.jpg",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "VARZEANA",
+      "image": "https://moveishortencio.com.br/banquetas/B VARZEANA.jpg",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "ASSENTOS",
+      "image": "https://moveishortencio.com.br/banquetas/ASSENTOS.jpg",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+:root {
+  --primary: #e12229;
+  --secundary: #8d0201;
+  --claro: #ffffff;
+  --creme: #f7e7ce;
+  --marromclaro: #d2b48c;
+  --marrom: #945d1c;
+  --preto: #000000;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Open Sans, sans-serif !important;
+}

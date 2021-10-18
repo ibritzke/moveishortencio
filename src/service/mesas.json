@@ -1,0 +1,40 @@
+{
+  "mesas": [
+    {
+      "id": 1,
+      "name": "MESA WESTERN",
+      "image": "https://moveishortencio.com.br/mesas/MESA WESTERN.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "MESA WESTERN BISTRÔ",
+      "image": "https://moveishortencio.com.br/mesas/MESA WESTERN BISTRO.jpg",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "MESA WESTERN CLASSIC",
+      "image": "https://moveishortencio.com.br/mesas/MESA WESTERN CLASSIC.jpg",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "MESA VINTAGE",
+      "image": "https://moveishortencio.com.br/mesas/MESA VINTAGE BAHIA.jpg",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "MESA IMPERIAL",
+      "image": "https://moveishortencio.com.br/mesas/MESA IMPERIAL.jpg",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "PÉS PARA MESA IMPERIAL",
+      "image": "https://moveishortencio.com.br/mesas/PES IMPERIAL.jpg",
+      "active": true
+    }
+  ]
+}

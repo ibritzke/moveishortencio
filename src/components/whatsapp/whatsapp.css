@@ -1,0 +1,24 @@
+.fab {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+.fab svg {
+  width: 50px;
+  height: 50px;
+  color: #009900;
+
+}
+
+@media (max-width: 858px) {
+  .fab {
+    z-index: 100;
+    bottom: 10px;
+    right: 10px;
+  }
+  .fab svg {
+    width: 40px;
+    height: 40px;
+    color: #009900;
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "cadeiras": [
+    {
+      "id": 1,
+      "name": "STREET",
+      "image": "https://moveishortencio.com.br/cadeiras/STREET.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "CIT",
+      "image": "https://moveishortencio.com.br/cadeiras/CIT.jpg",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "NAPOLEÃO",
+      "image": "https://moveishortencio.com.br/cadeiras/NAPOLEAO.jpg",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "NAPOLEÃO",
+      "image": "https://moveishortencio.com.br/cadeiras/NAPOLEAO ASSENTO.jpg",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "VITHORIA",
+      "image": "https://moveishortencio.com.br/cadeiras/VITHORIA.jpg",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "BAHIA",
+      "image": "https://moveishortencio.com.br/cadeiras/BAHIA ASSENTO.jpg",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "VITHORIA",
+      "image": "https://moveishortencio.com.br/cadeiras/VITHORIA MADEIRA.jpg",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "BAHIA",
+      "image": "https://moveishortencio.com.br/cadeiras/BAHIA.jpg",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "REPLICA II",
+      "image": "https://moveishortencio.com.br/cadeiras/REPLICA II.jpg",
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "REPLICA II COM APOIO",
+      "image": "https://moveishortencio.com.br/cadeiras/REPLICA II APOIO.jpg",
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "REPLICA III",
+      "image": "https://moveishortencio.com.br/cadeiras/REPLICA III.jpg",
+      "active": true
+    },
+    {
+      "id": 12,
+      "name": "REPLICA III COM APIO",
+      "image": "https://moveishortencio.com.br/cadeiras/REPLICA III APOIO.jpg",
+      "active": true
+    },
+    {
+      "id": 13,
+      "name": "REPLICA III DUPLO",
+      "image": "https://moveishortencio.com.br/cadeiras/REPLICA II DUPLO.jpg",
+      "active": true
+    },
+    {
+      "id": 14,
+      "name": "REPLICA III TRIPLO",
+      "image": "https://moveishortencio.com.br/cadeiras/REPLICA II T.jpg",
+      "active": true
+    },
+    {
+      "id": 15,
+      "name": "WINDSOR APROXIMAÇÃO",
+      "image": "https://moveishortencio.com.br/cadeiras/WINDSOR APROXIMACAO.jpg",
+      "active": true
+    },
+    {
+      "id": 16,
+      "name": "WINDSOR OFFICE",
+      "image": "https://moveishortencio.com.br/cadeiras/WINDSOR OFFICE.jpg",
+      "active": true
+    },
+    {
+      "id": 17,
+      "name": "WINDSOR DE BALANÇO",
+      "image": "https://moveishortencio.com.br/cadeiras/WINDSOR DE BALANCO.jpg",
+      "active": true
+    },
+    {
+      "id": 18,
+      "name": "ITALIANA",
+      "image": "https://moveishortencio.com.br/cadeiras/ITALIANA.jpg",
+      "active": true
+    },
+    {
+      "id": 19,
+      "name": "VARZEANA",
+      "image": "https://moveishortencio.com.br/cadeiras/VARZEANA.jpg",
+      "active": true
+    },
+    {
+      "id": 20,
+      "name": "IMPERIRAL",
+      "image": "https://moveishortencio.com.br/cadeiras/IMPERIAL.jpg",
+      "active": true
+    }
+  ]
+}

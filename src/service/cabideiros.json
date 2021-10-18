@@ -1,0 +1,22 @@
+{
+  "cabideiros": [
+    {
+      "id": 1,
+      "name": "WESTERN CABIDEIRO",
+      "image": "https://moveishortencio.com.br/cabideiros/WESTERN CABIDEIRO.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "WESTERN REVISTEIRO",
+      "image": "https://moveishortencio.com.br/caideiros/WESTERN REVISTEIRO.jpg",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "WESTERN TRIPLEX",
+      "image": "https://moveishortencio.com.br/cabideiros/WESTERN TRIPLEX.jpg",
+      "active": true
+    }
+  ]
+}

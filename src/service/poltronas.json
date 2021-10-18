@@ -1,0 +1,40 @@
+{
+  "poltronas": [
+    {
+      "id": 1,
+      "name": "CANELA I",
+      "image": "https://moveishortencio.com.br/poltronas/CANELA I.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "CANELA I",
+      "image": "https://moveishortencio.com.br/poltronas/CANELA II.jpg",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "ITALIANA RELAX PALHA",
+      "image": "https://moveishortencio.com.br/poltronas/ITALIANA RELAX PALHA.jpg",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "CABERNET",
+      "image": "https://moveishortencio.com.br/poltronas/CABERNET.jpg",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "PINOT",
+      "image": "https://moveishortencio.com.br/poltronas/PINOT.jpg",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "FENIX",
+      "image": "https://moveishortencio.com.br/poltronas/FENIX.jpg",
+      "active": true
+    }
+  ]
+}

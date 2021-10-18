@@ -1,0 +1,141 @@
+.footer {
+  background-image: url(./MADEIRA\ FUNDO\ LOGO.png);
+  display: flex;
+  width: 100%;
+  height: 220px;
+  flex-direction: row;
+  justify-content: space-evenly;
+  position: -webkit-sticky; /* Necessário para funcionar no Safari */
+  position: sticky;
+  z-index: 10;
+}
+
+.mapa {
+  /* background: #945d1c; */
+  /* background-image: url(./MADEIRA\ FUNDO\ LOGO.png); */
+  justify-content: space-between;
+  padding: 1vw;
+  width: 60%;
+  height: 219px;
+}
+.footer-left {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.footer_navigation {
+  display: flex;
+  justify-content: space-between;
+  float: right;
+}
+
+.footer_navigation ul {
+  width: 20vw;
+  /* padding: 3vw; */
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 50px;
+}
+
+.footer_navigation .label-title {
+  color: var(--secundary);
+  font-style: normal;
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 15px;
+  text-transform: uppercase;
+}
+
+.footer_navigation li {
+  padding-bottom: 5px;
+}
+
+.footer_navigation .label-link a {
+  color: var(--preto);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.footer_navigation .label-link :hover {
+  font-weight: bold;
+}
+
+.social {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 40px;
+  width: 20%;
+  height: 219px;
+}
+
+.rede-social {
+  display: flex;
+  color: var(--claro);
+  padding-top: 5px;
+}
+
+.rede-social a {
+  width: 38px;
+  height: 38px;
+  background: var(--marrom);
+  margin: 5px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 5px;
+}
+.rede-social svg {
+  font-size: initial;
+}
+
+.social h5 {
+  color: var(--claro);
+  font-weight: 700;
+}
+
+.footer-logo {
+  margin: 0px;
+}
+
+@media (max-width: 858px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+  }
+
+  .mapa {
+    background: var(--marrom);
+    justify-content: space-between;
+    padding: 20px 40px;
+    width: 100vw;
+    height: fit-content;
+  }
+
+  .footer_navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    float: none;
+  }
+
+  .footer_navigation ul {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .social {
+    width: 100vw;
+  }
+}
+
+@media (max-width: 550px) {
+  .footer_navigation {
+    flex-direction: column;
+  }
+}
