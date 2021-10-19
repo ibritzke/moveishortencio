@@ -21,18 +21,18 @@ export const Contato = () => {
 
       <div className="cardsContato">
 
-        <Link to="mailto:contato@moveishortencio.com.br?Subject=Contato do site">
+        <a href="https://api.whatsapp.com/send?phone=555135711617">
           <div className="card-whats">
             <AiOutlineWhatsApp className="iconeCard-whats" />
             <p>WhatsApp</p>
           </div>
-        </Link>
-        <Link to="mailto:contato@moveishortencio.com.br?Subject=Contato do site">
+        </a>
+        <a href="mailto:contato@moveishortencio.com.br?Subject=Contato do site">
           <div className="card-email">
             <AiOutlineMail className="iconeCard-email" />
             <p>E-mail</p>
           </div>
-        </Link>
+        </a>
         <div className="card-tel">
           <AiOutlinePhone className="iconeCard-tel" />
           <p>Telefone</p>
@@ -40,21 +40,21 @@ export const Contato = () => {
         </div>
      
 
-        <Link to="https://www.instagram.com/moveishortencio/">
+        <a href="https://www.instagram.com/moveishortencio/">
           <div className="card-insta">
             <AiOutlineInstagram className="iconeCard-insta" />
             <p>Instagram</p>
           </div>
-        </Link>
+        </a>
 
-        <Link to="https://www.facebook.com/moveishortencio"
+        <a href="https://www.facebook.com/moveishortencio"
           className="a-card-face"
         >
           <div className="card-face">
             <AiFillFacebook className="iconeCard-face" />
             <p>Facebook</p>
           </div>
-        </Link>
+        </a>
       </div>
       <div className="endereco-contato">
         <div className="subTitleContato">
