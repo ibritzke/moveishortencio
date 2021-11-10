@@ -54,15 +54,16 @@
 }
 .sobre {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .sobre .text {
-  width: 65%;
+  width: 64%;
 }
 .text {
-  padding: 1rem 2rem ;
- 
-  line-height: 2.5;
+  padding: 0rem 0rem 0rem 2rem;
+  line-height: 2;
   font-size: 1.2em;
 }
 .sobre p {
@@ -82,9 +83,11 @@
   margin-bottom: 5rem;
   height: 400px;
   clear: both;
-  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
-.parte2 > .left {
+.parte2 .left {
   background-image: url(../../images/25.jpg);
   background-position: left center;
   width: 50%;
@@ -113,4 +116,38 @@
   background-repeat: no-repeat;
   display: flex;
   height: inherit;
+}
+
+@media (max-width: 1300px) {
+  .main{
+    align-items: center;
+  }
+.container{
+  padding: 0% !important;
+  margin: 0px;
+}
+.parte1{
+  width: 100%;
+}
+.parte2{
+  width: 100%;
+  height: auto;
+}
+.sobre{
+  width:100%
+}
+.sobre .text{
+  padding: 3rem;
+  width: 100%;
+}
+.parte2 .left{
+  padding: 0;
+  width:85%;
+  height: 400px;
+}
+.parte2 .right{
+  width: 100%;
+  height: 400px;
+}
+
 }

@@ -4,55 +4,64 @@
       "id": 1,
       "name": "REPLICA II",
       "image": "https://moveishortencio.com.br/banquetas/B REPLICA II.jpg",
-      "active": true
+      "active":true,
+      "ref": "56"
     },
     {
       "id": 2,
       "name": "VITHORIA",
       "image": "https://moveishortencio.com.br/banquetas/B VITHORIA.jpg",
-      "active": true
+      "active":true,
+      "ref": "63"
     },
     {
       "id": 3,
       "name": "VITHORIA",
       "image": "https://moveishortencio.com.br/banquetas/B VITHORIA 2.jpg",
-      "active": true
+      "active":true,
+      "ref": "64"
     },
     {
       "id": 4,
       "name": "VITHORIA BABY",
       "image": "https://moveishortencio.com.br/banquetas/B VITHORIA BABY.jpg",
-      "active": true
+      "active":true,
+      "ref": "65"
     },
     {
       "id": 5,
       "name": "ITALIANA",
       "image": "https://moveishortencio.com.br/banquetas/B ITALIANA.jpg",
-      "active": true
+      "active":true,
+      "ref": "53"
     },
     {
       "id": 6,
       "name": "INDIAN",
       "image": "https://moveishortencio.com.br/banquetas/B INDIAN.jpg",
-      "active": true
+      "active":true,
+      "ref": "55"
     },
     {
       "id": 7,
       "name": "INDIAN",
       "image": "https://moveishortencio.com.br/banquetas/B INDIAN P.jpg",
-      "active": true
+      "active":true,
+      "ref": "54"
     },
     {
       "id": 8,
       "name": "VARZEANA",
       "image": "https://moveishortencio.com.br/banquetas/B VARZEANA.jpg",
-      "active": true
+      "active":true,
+      "ref": "52"
     },
     {
       "id": 9,
       "name": "ASSENTOS",
       "image": "https://moveishortencio.com.br/banquetas/ASSENTOS.jpg",
-      "active": true
+      "active":true,
+      "ref": ""
     }
   ]
 }

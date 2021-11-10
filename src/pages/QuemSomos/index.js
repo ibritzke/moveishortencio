@@ -54,8 +54,7 @@ export const QuemSomos = () => {
                   grande durabilidade e excelente acabamento. Nosso principal
                   valor é a qualidade, por esse motivo nós tornamos especialista
                   na linha de cadeiras, com produtos de grande durabilidade.
-                </p>
-                <p>
+                <br/>
                   A essência de nossas vendas são produtos semiacabados, sem
                   pintura estofado, sendo comercializados para o atacado. Você
                   pode encontrá-los em nossos principais clientes: antiquários,

@@ -45,8 +45,8 @@
   color: var(--marrom);
   display: flex;
   align-items: center;
-  width: 250px;
-  height: 300px;
+  width: 200px;
+  height: 250px;
   background: var(--claro);
   flex-direction: column;
   justify-content: space-evenly;
@@ -58,7 +58,7 @@
 .iconeCard-whats,
 .iconeCard-tel,
 .iconeCard-email {
-  width: 6rem;
+  width: 5rem;
 }
 .iconeCard-whats:hover,
 .card-whats:hover {

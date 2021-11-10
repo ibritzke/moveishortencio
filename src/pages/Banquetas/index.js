@@ -23,7 +23,7 @@ export const Banquetas = () => {
       <div className="main-header">
         <p className="title">Banquetas</p>
         <p className="subtitle">
-          Banquetas fabricadas com alta qualidade, replicas idênticas...
+          {/* Banquetas fabricadas com alta qualidade, replicas idênticas... */}
         </p>
       </div>
       <div className="main">
@@ -48,6 +48,11 @@ export const Banquetas = () => {
                     />
                   </Zoom>
                   <p className="product-name">{banqueta.name}</p>
+                  {banqueta.ref === "" ? (
+                    ""
+                  ) : (
+                    <p className="product-name"> Ref:{banqueta.ref}</p>
+                  )}
                 </div>
               </>
             );

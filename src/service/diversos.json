@@ -1,0 +1,34 @@
+{
+  "diversos": [
+    {
+      "id": 1,
+      "name": "WESTERN CABIDEIRO",
+      "image": "https://moveishortencio.com.br/diversos/WESTERN_CABIDEIRO.jpg",
+      "active": true,
+      "ref": "80"
+    },
+    {
+      "id": 2,
+      "name": "WESTERN REVISTEIRO",
+      "image": "https://moveishortencio.com.br/diversos/WESTERN_REVISTEIRO.jpg",
+      "active": true,
+      "ref": "M201"
+    },
+    {
+      "id": 3,
+      "name": "WESTERN TRIPLEX",
+      "image": "https://moveishortencio.com.br/diversos/WESTERN_TRIPLEX.jpg",
+      "active": true,
+      "ref": "M202"
+    },
+
+    {
+      "id": 4,
+      "name": "DETALHES ASSENTOS",
+      "image": "https://moveishortencio.com.br/diversos/ASSENTOS.jpg",
+      
+      "active": true,
+      "ref": "55 E 54"
+    }
+  ]
+}

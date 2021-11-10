@@ -35,6 +35,9 @@ const Navbar = () => {
             <Link to="/banquetas" alt="Banquetas">BANQUETAS</Link>
           </li>
           <li className="option">
+            <Link to="/diversos" alt="Diversos">DIVERSOS</Link>
+          </li>
+          <li className="option">
             <Link to="/quemSomos" alt="Quem Somos">QUEM SOMOS</Link>
           </li>
           <li className="option">

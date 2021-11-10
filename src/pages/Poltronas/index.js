@@ -25,7 +25,7 @@ export const Poltronas = () => {
       <div className="main-header">
         <p className="title">Poltronas</p>
         <p className="subtitle">
-          Poltronas fabricadas com alta qualidade, replicas idênticas...
+          {/* Poltronas fabricadas com alta qualidade, replicas idênticas... */}
         </p>
       </div>
       <div className="main">
@@ -50,6 +50,11 @@ export const Poltronas = () => {
                     />
                   </Zoom>
                   <p className="product-name">{poltrona.name}</p>
+                  {poltrona.ref === "" ? (
+                    ""
+                  ) : (
+                    <p className="product-name"> Ref:{poltrona.ref}</p>
+                  )}
                 </div>
               </>
             );
